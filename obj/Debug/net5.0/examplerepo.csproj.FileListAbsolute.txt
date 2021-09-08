@@ -1,0 +1,16 @@
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.exe
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.deps.json
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.json
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.dev.json
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.dll
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\ref\examplerepo.dll
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.pdb
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.AssemblyReference.cache
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfoInputs.cache
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfo.cs
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.CoreCompileInputs.cache
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.dll
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\ref\examplerepo.dll
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.pdb
+C:\Users\PrestonRoten\Documents\MIS_221\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.genruntimeconfig.cache
